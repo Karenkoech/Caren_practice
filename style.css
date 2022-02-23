@@ -1,8 +1,13 @@
 h1{
-    color: orange;
-    text-align: center;
+    color: red;
+    text-align: right;
+    font-style: italic;
+}
+h2{
+    color: pink;
+    font-size: 20px;
 }
 p{
-    color: aqua;
+    color: orange;
     text-align: left;
 }
