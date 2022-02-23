@@ -11,3 +11,8 @@ p{
     color: orange;
     text-align: left;
 }
+body{
+    background-color: brown;
+    font-family: sans-serif;
+    text-align: center;
+}
